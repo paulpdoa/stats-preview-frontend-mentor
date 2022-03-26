@@ -63,7 +63,7 @@ article {
     }
 }
 .desktop {
-    background:linear-gradient(0deg, rgba(225, 0, 255, 0.541), rgba(183, 0, 255, 0.432)),url('/images/image-header-desktop.jpg');
+    background:linear-gradient(0deg, rgba(225, 0, 255, 0.541), rgba(183, 0, 255, 0.432)),url('./images/image-header-desktop.jpg');
     background-repeat:no-repeat;    
     background-size: cover;
     background-position: center;
@@ -104,7 +104,7 @@ article {
 
         .mobile {
             display:block;
-            background:linear-gradient(0deg, rgba(225, 0, 255, 0.541), rgba(183, 0, 255, 0.432)),url('/images/image-header-mobile.jpg');
+            background:linear-gradient(0deg, rgba(225, 0, 255, 0.541), rgba(183, 0, 255, 0.432)),url('./images/image-header-mobile.jpg');
             background-repeat:no-repeat;    
             background-size: cover;
             background-position: center;
